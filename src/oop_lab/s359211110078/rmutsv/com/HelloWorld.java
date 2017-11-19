@@ -5,6 +5,9 @@ public class HelloWorld {
 public static void main(String[] args) {
 
   System.out.println("Hello World' I'am Day");
+  System.out.println("Wae_abdulkoday yeeyama");
+  System.out.println("infofmation system");
+  System.out.println("MT ");
 
 
 
