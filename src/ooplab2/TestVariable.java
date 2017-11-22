@@ -25,7 +25,7 @@ public class TestVariable {
         System.out.println(c);
 
         //string
-        String =  "hello, World";
+        String  s =  "hello, World";
         System.out.println(s);
         String name = "I'm Day";
         System.out.println(s+" "+name);
@@ -34,12 +34,12 @@ public class TestVariable {
         System.out.println(msg.toUpperCase());
         System.out.println(msg.toLowerCase());
         System.out.println(msg.length());
-        System.out.println(msg.replace( oldChar: 'o', newChar: "g" ));
+        System.out.println(msg.replace('o','g' ));
 
         //Boolean
         boolean b = true;
         boolean b1 = false;
-        System.out.println(b+""+b1);
+        System.out.println(b+""+b1); ;
 
   //    Shortcut Operator
         int number =10;
