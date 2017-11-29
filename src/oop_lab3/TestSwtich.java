@@ -13,6 +13,7 @@ public class TestSwtich {
             case 1: System.out.println("Your entered 1");break;
             case 2: System.out.println("Your entered 2");break;
             case 3: System.out.println("Your entered 3");break;
+            default: System.out.println("Number 1-3 only.");
         }//switch
 
     }// main
