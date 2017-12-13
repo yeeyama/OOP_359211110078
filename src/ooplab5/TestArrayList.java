@@ -18,7 +18,11 @@ public interface TestArrayList {
         //  print with for loop
         for (int i=0;i<list.size();i++){
             System.out.println(list.get(i));
-        }//for
+        }//for i
+
+        System.out.println(list.indexOf("YAYA"));
+        list.set(1,"BABY");
+        System.out.println(list);
 
 
 
