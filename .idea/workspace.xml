@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eba05a16-5080-4ee7-be37-4a1c6494ad7a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab5/TestArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab5/TestDataToArray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab5/TestArray.java" afterPath="$PROJECT_DIR$/src/ooplab5/TestArray.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,8 +61,18 @@
       <file leaf-file-name="TestArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab5/TestArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+            <state relative-caret-position="578">
+              <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDataToArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ooplab5/TestDataToArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -145,6 +156,12 @@
               <item name="OOP_359211110078" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ooplab4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOP_359211110078" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP_359211110078" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ooplab5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -480,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1512535653367</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Testing Array">
+      <created>1513130745375</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1513130745375</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -531,7 +555,8 @@
     <MESSAGE value="Testing DoWhileLoop" />
     <MESSAGE value="Testing NestedLoop" />
     <MESSAGE value="Testing Methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing Methods" />
+    <MESSAGE value="Testing Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing Array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -733,10 +758,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab5/TestDataToArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab5/TestArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        <state relative-caret-position="578">
+          <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
           <folding />
         </state>
       </provider>

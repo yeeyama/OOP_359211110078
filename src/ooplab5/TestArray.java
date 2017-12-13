@@ -28,6 +28,10 @@ public class TestArray {
         // double array
         double value[] = new double[5];
         for (int i=0;i<value.length;i++)
+            System.out.println(value[i]);
+        //String array
+        String msg[]= new String[5];
+        for (int i=0;i<value.length;i++)
             System.out.println(msg[i]);
 
 
