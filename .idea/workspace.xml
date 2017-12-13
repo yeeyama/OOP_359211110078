@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eba05a16-5080-4ee7-be37-4a1c6494ad7a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab5/Array2D.java" afterPath="$PROJECT_DIR$/src/ooplab5/Array2D.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab5/TestArrayList.java" afterPath="$PROJECT_DIR$/src/ooplab5/TestArrayList.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -535,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513137308880</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Array2D">
+      <created>1513137933590</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1513137933590</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
