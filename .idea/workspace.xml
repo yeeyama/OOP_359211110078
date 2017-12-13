@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eba05a16-5080-4ee7-be37-4a1c6494ad7a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab5/OperatorInArray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab5/TestDataToArray.java" afterPath="$PROJECT_DIR$/src/ooplab5/TestDataToArray.java" />
     </list>
@@ -29,8 +28,8 @@
       <file leaf-file-name="TestDataToArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab5/TestDataToArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="17" lean-forward="false" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,8 +78,8 @@
         <option value="$PROJECT_DIR$/src/ooplab4/TestMethods.java" />
         <option value="$PROJECT_DIR$/src/ooplab4/OverLoadMethod.java" />
         <option value="$PROJECT_DIR$/src/ooplab5/TestArray.java" />
-        <option value="$PROJECT_DIR$/src/ooplab5/TestDataToArray.java" />
         <option value="$PROJECT_DIR$/src/ooplab5/OperatorInArray.java" />
+        <option value="$PROJECT_DIR$/src/ooplab5/TestDataToArray.java" />
       </list>
     </option>
   </component>
@@ -480,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513131134139</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Testing DatatoArray">
+      <created>1513134534132</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1513134534132</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -533,7 +539,8 @@
     <MESSAGE value="Testing Methods" />
     <MESSAGE value="Testing Array" />
     <MESSAGE value="Testing Array1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing Array1" />
+    <MESSAGE value="Testing DatatoArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing DatatoArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -757,8 +764,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab5/TestDataToArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="17" lean-forward="false" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
