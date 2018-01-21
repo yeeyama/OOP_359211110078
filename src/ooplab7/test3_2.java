@@ -54,7 +54,7 @@ public class test3_2 {
         }
     }
     private static void showData(int id, String name, float salary, float overtime){
-        mid3_2 y = new mid3_2();
+        test3_2 y = new test3_2();
         System.out.println("ID :"+ id);
         System.out.println("Name :"+ name);
         System.out.println("salary :"+ salary);
