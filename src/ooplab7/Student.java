@@ -1,22 +1,22 @@
 package ooplab7;
-//takking about Student?
-//1.Student ID
-//2.Name
-//3.Address
-//4.Gender
+//talking about Student?
+// 1.Student ID
+// 2.Name
+// 3.Address
+// 4.Gender
 
 public class Student {
     //properties of Student
-    private Student id;
-    private Student name;
-    private Student address;
-    private Student gender;
+    private String id;
+    private String name;
+    private String address;
+    private String gender;
     //Constructor
-    //Drfault Canstructor
-    public Student (){}
+    //Default Constructor
+    public Student(){}
     //Constructor by own
-    public Student (String id,String n, String a, String g){
-        //assing data to properties
+    public Student(String id,String n,String a,String g){
+        //assign data to properties
         this.id = id;
         this.name = n;
         this.address = a;
@@ -24,45 +24,44 @@ public class Student {
     }//Student
     //getter and setter methods
 
-
     public String toString() {
         return "Student{" +
-                "id=" + id +
-                ", name=" + name +
-                ", address=" + address +
-                ", gender=" + gender +
+                "id='" + id + '\'' +
+                ", name='" + name + '\'' +
+                ", address='" + address + '\'' +
+                ", gender='" + gender + '\'' +
                 '}';
     }
 
-    public Student getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(Student id) {
+    public void setId(String id) {
         this.id = id;
     }
 
-    public Student getName() {
+    public String getName() {
         return name;
     }
 
-    public void setName(Student name) {
+    public void setName(String name) {
         this.name = name;
     }
 
-    public Student getAddress() {
+    public String getAddress() {
         return address;
     }
 
-    public void setAddress(Student address) {
+    public void setAddress(String address) {
         this.address = address;
     }
 
-    public Student getGender() {
+    public String getGender() {
         return gender;
     }
 
-    public void setGender(Student gender) {
+    public void setGender(String gender) {
         this.gender = gender;
     }
 }//class
