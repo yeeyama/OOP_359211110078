@@ -24,14 +24,6 @@ public class TestArrayList {
         list.set(1, "BABY");
         System.out.println(list);
 
-        //Object Data
-        ArrayList numList = new ArrayList();
-        Integer x = 10;
-        numList.add(x);
-        System.out.println(numList);
-        Double y = 10.10;
-        numList.add(y);
-        System.out.println(numList);
 
 
     }//main
