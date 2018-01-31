@@ -9,7 +9,6 @@ public class Rectangle implements Shape {
         this.length = length;
     }
 
-    @Override
     public String toString() {
         return "Rectangle{" +
                 "width=" + width +
