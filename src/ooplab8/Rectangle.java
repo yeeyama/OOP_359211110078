@@ -32,7 +32,7 @@ public class Rectangle implements Shape {
         this.length = length;
     }
 
-    @Override
+
     public double getArea() {
         return width*length;
     }
